@@ -14,7 +14,7 @@ import { Component } from '@angular/core';
         </ul>
       </div>
     </nav>
-  <h1>Welcome to the yolobrolo angular 2 demo app!</h1>  
+  <h1>Welcome to the yolobrolo angular 2 demo app!</h1>
   `
 })
 export class AppComponent {
