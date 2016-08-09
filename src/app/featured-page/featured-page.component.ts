@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-featured-page',
-  styleUrls: ['featured-page.component.css']
+  styleUrls: ['featured-page.component.css'],
   template: `
   <div class="container">
     <div class="row">
